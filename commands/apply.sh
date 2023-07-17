@@ -1,1 +1,1 @@
-terraform apply plan.out
+terraform apply plan.out -auto-approve -input=false
